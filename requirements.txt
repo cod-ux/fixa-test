@@ -1,5 +1,6 @@
+flask==3.0.2
 fixa-dev==0.0.4
 python-dotenv==1.0.1
-ngrok==1.4.0
-flask==3.0.2
 pydantic==2.10.6
+ngrok==1.4.0
+Werkzeug==3.1.3

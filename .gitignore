@@ -1,2 +1,13 @@
 .env
 .venv/*
+
+# Vercel
+.vercel
+.now
+.env.local
+.env.*.local
+node_modules
+.next
+build
+dist
+.turbo
